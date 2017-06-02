@@ -1,0 +1,67 @@
+Объектно ориентированное программирование
+    - парадигма программирования, ключевым блоком которой является объект, который соотносится
+      с объектом в конкретной задаче
+
+Object-oriented programming
+        - programming paradigm, the key block of which is an object that relates
+          with an object in a specific task
+====================================================================================================
+Главные аспекты;
+    - любая система состоит из объектов
+    - каждый объект имеет состояние и поведение
+    - объекты взаимодействуют между собой определенным образом
+
+The main aspects;
+    - any system consists of objects
+    - each object has a state and behavior
+    - objects interact with each other in a certain way
+====================================================================================================
+Принципы объектно ориетнироанного программирования
+    - инкапсуляция
+    - наследование
+    - полиморфизм
+
+Principles of object-oriented programming
+    - encapsulation
+    - inheritance
+    - polymorphism
+====================================================================================================
+Инкапсуляция
+    - механизм, благодаря которому, любой класс или часть системы рассматривается как
+      как от дельный модуль и пользователь этого модуля может взаимодействоват с ним лишь
+      определенным способом и не видит реализации этого модуля
+    - сводит к минимуму количество связей между частями системы, тем самым упрощая изменение
+      модулей (рефакторинг)
+
+Encapsulation
+    - the mechanism by which any class or part of the system is treated as
+      as a separate module and the user of this module can interact with it only
+      a certain way and does not see the implementation of this module
+    - minimizes the number of connections between parts of the system, thereby simplifying the change
+      modules (refactoring)
+====================================================================================================
+Наследование
+    - механизм создания одного класса с помощью другого с использованием всех свойств и методов суперкласса,
+      добавляя новые свойства и методы по мере необходимости
+    - отображает иерархичность окружающего мира
+
+Inheritance
+    - the mechanism for creating one class using the other using all properties and methods of the superclass,
+      adding new properties and methods as needed
+    - displays hierarchy of the surrounding world
+====================================================================================================
+Полиморфизм
+    - механизм, благодаря которому подклассы могут изменять методы суперкласса, оставляя неизменной его сигнатуру,
+      благодяря чему интерфейс суперкласса остается неизменным
+    - позволяет работать с объектами подкласса как с объектами суперкласса, даже с учетом того,
+      что реализация методов у подкласса и суперкласса может отличаться
+
+Polymorphism
+    - The mechanism by which subclasses can change the methods of the superclass, leaving its signature unchanged,
+      the interface of the superclass remains unchanged
+    - allows you to work with subclass objects as with objects of the superclass, even taking into account that,
+      That the implementation of methods in a subclass and superclass can differ
+====================================================================================================
+UML
+    - Unified modeling language -  универсальный язык моделирования
+
